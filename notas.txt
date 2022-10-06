@@ -1,3 +1,8 @@
 https://paletton.com/#uid=53R0u0kmwBzhhUZklMRnOt8nylq
 icon
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22%235b75e1%22></rect><text x=%2250%%22 y=%2250%%22 dominant-baseline=%22central%22 text-anchor=%22middle%22 font-size=%2290%22>👷‍♂️</text></svg>" />
+
+footer
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <path fill="#5B75E1" fill-opacity="1" d="M0,192L40,208C80,224,160,256,240,272C320,288,400,288,480,277.3C560,267,640,245,720,250.7C800,256,880,288,960,272C1040,256,1120,192,1200,176C1280,160,1360,192,1400,208L1440,224L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
+</svg>
